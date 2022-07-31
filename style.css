@@ -17,8 +17,7 @@ input[type="text"] {
 }
 
 .box {
-  background-color: antiquewhite;
+  margin: 20px;
   padding: 10px;
-  border: 2px;
-  border-color: aqua;
+  border: 2px solid aqua;
 }
